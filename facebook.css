@@ -1,0 +1,77 @@
+.header{
+    width: 100%;
+    
+    height:60px;
+    background-color: white;
+    position: relative;
+}
+#logoface{
+    position: absolute;
+    top:14px;
+    left:5px;
+
+}
+#p1{
+    position:absolute;
+    top:0;
+    left:50px;
+    color:rgb(86, 81, 81);
+    border:2px solid gray;
+    border-radius: 20px;
+    padding-left:15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(194, 187, 187);
+}
+
+#logohome{
+    position: absolute;
+    top:14px;
+    left:400px;
+}
+
+#logopanel{
+    position: absolute;
+    top:15px;
+    left:500px;
+}
+#logoreel{
+   position: absolute;
+    top:15px;
+    left:600px;  
+}
+
+#logomarket{
+    position: absolute;
+    top:15px;
+    left:700px;   
+}
+#logogrupo{
+    position: absolute;
+    top:15px;
+    left:800px;   
+}
+
+#logoperfil{
+    position: absolute;
+    top:13px;
+    right:30px;   
+}
+#logonotificacao{
+    position: absolute;
+    top:13px;
+    right:80px;   
+}
+#logomesseger{
+    position: absolute;
+    top:13px;
+    right:130px;   
+}
+#logomenu{
+    position: absolute;
+    top:13px;
+    right:180px;   
+}
+
+
