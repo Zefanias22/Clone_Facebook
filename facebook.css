@@ -1,3 +1,7 @@
+body{
+ background-color: #F0F2F5;
+}
+
 .header{
     width: 100%;
     
@@ -15,14 +19,15 @@
     position:absolute;
     top:0;
     left:50px;
-    color:rgb(86, 81, 81);
-    border:2px solid gray;
-    border-radius: 20px;
+   border:2px solid #F0F2F5;
+    border-radius: 10px;
+    background-color: #F0F2F5;
+    color: #65676B;
     padding-left:15px;
     padding-right: 15px;
     padding-top: 5px;
     padding-bottom: 5px;
-    background-color: rgb(194, 187, 187);
+   
 }
 
 #logohome{
@@ -75,3 +80,210 @@
 }
 
 
+.esquerda{
+    width: 300px;
+   background-color:  #F0F2F5;
+    overflow-y: auto;
+    height: 600px;
+    position: relative;
+    float:left;
+    margin-top: 2px;;
+  
+}.esquerda::-webkit-scrollbar {
+    width: 10px;
+}
+
+.esquerda::-webkit-scrollbar-track {
+    background:transparent; /* fundo */
+}
+
+.esquerda::-webkit-scrollbar-thumb {
+    background: rgb(67, 64, 64);
+    border-radius: 10px;
+}
+
+.esquerda::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+.esquerda::-webkit-scrollbar-button {
+    display: none; /* remove setinhas */
+}
+
+#perfil2{
+    position:absolute;
+    top:10px;
+    left:5px;
+}
+
+#p2{
+    margin-left: 45px;
+    font-weight: bold;
+}
+
+#meta{
+    position: absolute;
+    top:50px;
+    left:5px;
+}
+#p3{
+    margin-left: 45px;
+    font-weight: bold;
+    position: absolute;
+    top:42px;
+}
+
+#amigos{
+    position: absolute;
+    top:100px;
+    left:5px;
+}
+#p4{
+    margin-left: 45px;
+    font-weight: bold;
+    position: absolute;
+    top:88px;
+}
+
+#painelprof{
+    position: absolute;
+    top:150px;
+    left:5px;
+}
+#p5{
+    margin-left: 45px;
+    font-weight: bold;
+    position: absolute;
+    top:138px;
+}
+
+#memorias{
+    position: absolute;
+    top:200px;
+    left:5px;
+}
+#p6{
+    margin-left: 45px;
+    font-weight: bold;
+    position: absolute;
+    top:188px;
+}
+
+#guardados{
+    position: absolute;
+    top:250px;
+    left:5px;
+}
+#p7{
+    margin-left: 45px;
+    font-weight: bold;
+    position: absolute;
+    top:238px;
+}
+
+#grupo{
+    position: absolute;
+    top:300px;
+    left:5px;
+}
+#p8{
+    margin-left: 45px;
+    font-weight: bold;
+    position: absolute;
+    top:288px;
+}
+
+#aniversario{
+    position: absolute;
+    top:350px;
+    left:5px;
+}
+#p9{
+    margin-left: 45px;
+    font-weight: bold;
+    position: absolute;
+    top:338px;
+}
+
+#actividade{
+    position: absolute;
+    top:400px;
+    left:5px;
+}
+#p10{
+    margin-left: 45px;
+    font-weight: bold;
+    position: absolute;
+    top:388px;
+}
+
+#centroa{
+    position: absolute;
+    top:450px;
+    left:5px;
+}
+#p11{
+    margin-left: 45px;
+    font-weight: bold;
+    position: absolute;
+    top:438px;
+}
+.center{
+    width: 600px;
+    height: 55px;
+    float: left;
+    border:2px solid rgb(232, 226, 226);
+    position: relative;
+    border-radius: 20px;
+    margin-left: 80px;
+    margin-right: 150px;
+    background-color: white;
+}
+#cperfil{
+position: absolute;
+top:10px;
+left:5px;
+}
+#ptop{
+   
+    border:2px solid #F0F2F5;
+    border-radius: 10px;
+    background-color: #F0F2F5;
+    margin-left: 50px; 
+  margin-right: 240px;
+    padding-left: 20px;
+    padding:3px;
+    color: #65676B;
+}
+
+#live{
+position: absolute;
+top:10px;
+right:7px;
+}
+
+#galeria{
+position: absolute;
+top:10px;
+right:45px;
+}
+#video{
+position: absolute;
+top:10px;
+right:90px;
+}
+
+
+.status{
+    width: 600px;
+    height: 185px;
+    float: left;
+    border:2px solid rgb(232, 226, 226);
+    position: relative;
+    border-radius: 20px;
+    margin-left: 80px;
+    margin-right: 150px;
+    background-color: white;
+    border:1px solid white;
+    border-radius: 10px;
+}
