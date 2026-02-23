@@ -229,13 +229,13 @@ body{
     top:438px;
 }
 .center{
-    width: 600px;
+    width: 650px;
     height: 55px;
     float: left;
     border:2px solid rgb(232, 226, 226);
     position: relative;
     border-radius: 20px;
-    margin-left: 80px;
+    margin-left: 30px;
     margin-right: 150px;
     background-color: white;
 }
@@ -275,26 +275,26 @@ right:90px;
 
 
 .status{
-    width: 600px;
+    width: 650px;
     height: 185px;
     float: left;
     border:2px solid rgb(232, 226, 226);
     position: relative;
     border-radius: 20px;
-    margin-left: 80px;
+    margin-left: 30px;
     margin-right: 150px;
     background-color: white;
     border:1px solid white;
     border-radius: 10px;
 }
 .publicacoes{
-    width: 600px;
+    width: 650px;
     height: 400px;
     float: left;
     border:2px solid rgb(232, 226, 226);
     position: relative;
     border-radius: 20px;
-    margin-left: 80px;
+    margin-left: 30px;
     margin-right: 150px;
     background-color: white;
 }
